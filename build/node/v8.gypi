@@ -10,7 +10,7 @@
    'v8_enable_inspector': 1,
    'v8_enable_i18n_support': 1,
    # The V8 libraries.
-   'v8_libraries': '["v8", "v8_snapshot", "v8_nosnapshot", "v8_external_snapshot", "v8_base", "v8_libbase", "v8_libplatform"]',
+   'v8_libraries': '["v8", "v8_snapshot", "v8_nosnapshot", "v8_external_snapshot", "v8_base", "v8_libbase", "v8_libplatform", "inspector"]',
    # 'v8_use_snapshot': 'true',
    # 'v8_use_external_startup_data': 1,
    'icu_libraries': '["icui18n", "icuuc"]',
